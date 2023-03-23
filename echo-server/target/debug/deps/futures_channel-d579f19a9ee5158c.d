@@ -1,0 +1,10 @@
+c:\Work\Learn\Rust\rust-echo-client-server\echo-server\target\debug\deps\futures_channel-d579f19a9ee5158c.rmeta: C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.27\src\lib.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.27\src\lock.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.27\src\mpsc\mod.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.27\src\mpsc\queue.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.27\src\mpsc\sink_impl.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.27\src\oneshot.rs
+
+c:\Work\Learn\Rust\rust-echo-client-server\echo-server\target\debug\deps\futures_channel-d579f19a9ee5158c.d: C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.27\src\lib.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.27\src\lock.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.27\src\mpsc\mod.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.27\src\mpsc\queue.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.27\src\mpsc\sink_impl.rs C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.27\src\oneshot.rs
+
+C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.27\src\lib.rs:
+C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.27\src\lock.rs:
+C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.27\src\mpsc\mod.rs:
+C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.27\src\mpsc\queue.rs:
+C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.27\src\mpsc\sink_impl.rs:
+C:\Users\Dell\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.27\src\oneshot.rs:
